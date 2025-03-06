@@ -124,7 +124,7 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="少儿动画",优漫卡通
 http://218.94.90.74:57585/rtp/239.49.8.119:8000/.m3u8
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="少儿动画",嘉佳卡通
-http://59.35.185.47:8188/rtp/239.77.0.179:5146
+http://59.35.185.47:8188/rtp/239.77.0.179:5146/.m3u8
 #EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://live.fanmingming.cn/tv/新动漫.png" group-title="少儿动画",新动漫
 http://0.0.0.0
 #EXTINF:-1,tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://live.fanmingming.cn/tv/CN卡通.png" group-title="少儿动画",CN卡通
