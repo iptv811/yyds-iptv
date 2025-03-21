@@ -178,11 +178,11 @@ rtp://238.1.78.106:6720
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV4
 rtp://238.1.78.107:6728
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="卫视频道",嘉佳卡通
-http://113.100.31.134:4022/rtp/239.77.0.179:5146
+http://183.33.58.159:8686/udp/239.77.1.15:5146
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="卫视频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="卫视频道",广东少儿
-http://113.100.31.134:4022/rtp/239.77.0.250:5146
+http://183.33.58.159:8686/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" group-title="卫视频道",内蒙古少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="卫视频道",优漫卡通
