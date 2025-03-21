@@ -32,7 +32,7 @@ rtp://238.1.78.243:7816
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
 rtp://238.1.78.222:7648
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://222.210.222.174:9555/gaoma/CCTV4k16_10m.m3u8
+http://220.167.170.162:4000/udp/239.120.1.252:9554
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 rtp://238.1.78.178:7296
 #EXTINF:-1,tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K超高清.png" group-title="央视",CCTV-4K 超高清
